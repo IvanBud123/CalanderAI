@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+    <title>CalenderAI</title>
+	<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <meta charset="UTF-8" />
 </head>
 <body>
@@ -31,5 +33,8 @@
             <td>Подготовка к коллоквиуму</td>
         </tr>
     </table>
+<a href="https://rnape-109-184-93-71.a.free.pinggy.link">
+  <button>Back</button>
+</a>
 </body>
 </html>
