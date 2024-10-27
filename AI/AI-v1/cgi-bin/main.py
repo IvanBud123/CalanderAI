@@ -3,7 +3,7 @@ import cgi
 from g4f.client import Client
 f1 = open("/home/mi/AI-v1/rasp/celander.txt")
 s1 = f1.readlines()
-f2 = open("/home/mi/AI-v1/pater.txt")
+f2 = open("/home/mi/AI-v1/cgi-bin/pater.txt")
 s2 = f2.readlines()
 z = "<meta charset=\"UTF-8\" />"
 client = Client()
